@@ -26,6 +26,7 @@
     .section2_container{
         flex-direction: column;
         row-gap: 24px;
+        padding: 48px 14px;
     }
     footer{
         padding: 31px 100px;

@@ -10,6 +10,9 @@
     .third{
         display: none;
     }
+    .section2_container{
+        padding: 80px 67px;
+    }
     footer{
         padding: 36px 330px;
     }
