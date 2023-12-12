@@ -63,12 +63,11 @@ header{
 /* section2 */
 
 .section2_container{
-
+    padding: 130px;
 }
 
 .section2{
     display: flex;
-    padding: 130px;
     column-gap: 20px;
 }
 h3{
@@ -77,7 +76,7 @@ h3{
     font-weight: 500;
     line-height: 45px;
     letter-spacing: 0em;
-    text-align: center;
+    margin-bottom: 34px;
 }
 .section2_article{
     border: 1px solid #000000;
@@ -110,8 +109,12 @@ h4{
 }
 
 /* section3 */
+
+.section3_container{
+    padding: 130px;
+}
 .section1img1{
-    width: 100%;
+    width: calc(780 / 1440*100%);
 }
 
 
