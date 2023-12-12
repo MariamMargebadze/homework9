@@ -1,0 +1,10 @@
+@media (max-width: 1025px){
+    /* header */
+    header{
+        padding: 0px 92px;
+    }
+    /* section1 */
+    .section1{
+        padding: 171px 92px;
+    }
+}

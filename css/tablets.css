@@ -1,0 +1,11 @@
+@media (max-width: 835px){
+    /* header */
+    header{
+        padding: 0 67px;
+    }
+    .section1{
+        height: 438px;
+        padding: 115px 67px;
+    }
+
+}
