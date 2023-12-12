@@ -7,5 +7,11 @@
         height: 438px;
         padding: 115px 67px;
     }
+    .third{
+        display: none;
+    }
+    footer{
+        padding: 36px 330px;
+    }
 
 }

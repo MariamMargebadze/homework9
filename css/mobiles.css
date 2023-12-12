@@ -20,4 +20,14 @@
         font-size: 14px;
         line-height: 22px;
     }
+    .third{
+        display: none;
+    }
+    .section2_container{
+        flex-direction: column;
+        row-gap: 24px;
+    }
+    footer{
+        padding: 31px 100px;
+    }
 }

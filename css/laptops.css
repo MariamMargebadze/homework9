@@ -7,4 +7,10 @@
     .section1{
         padding: 171px 92px;
     }
+    .third{
+        display: none;
+    }
+    footer{
+        padding: 31px 425px;
+    }
 }
